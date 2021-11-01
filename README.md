@@ -30,7 +30,7 @@ This URI supports integers from 1-3999 as per Extension-1
 
 http://localhost:8080/romannumeral?query={integer} 
 
-This URI takes two integers min, max and gives a list of Roman Numerals in that range
+This URI takes two integers min, max and gives a list of Roman Numerals in that range as per Extension-2
 
 http://localhost:8080/romannumeral?min={integer}&max={integer} 
 
